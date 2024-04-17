@@ -1,0 +1,1 @@
+The SmartSensing research group is engaged in the study of `Federated Learning`, `Edge Intelligence`, and `Crowd Sensing`.
